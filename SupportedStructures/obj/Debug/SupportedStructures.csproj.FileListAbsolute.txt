@@ -1,0 +1,45 @@
+D:\Univer\6sem\Kursach\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+D:\Univer\6sem\Kursach\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+D:\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+D:\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+D:\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+D:\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+D:\!Code\6sem\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+K:\TheGame\SupportedStructures\bin\Debug\SupportedStructures.dll
+K:\TheGame\SupportedStructures\bin\Debug\SupportedStructures.pdb
+K:\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+K:\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
+K:\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+D:\TheGameOld\SupportedStructures\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\SupportedStructures\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\SupportedStructures\obj\Debug\SupportedStructures.dll
+D:\TheGameOld\SupportedStructures\obj\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\SupportedStructures\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\SupportedStructures\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\SupportedStructures\obj\Debug\SupportedStructures.dll
+D:\TheGame объедененная\SupportedStructures\obj\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\SupportedStructures\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\SupportedStructures\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\SupportedStructures\obj\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\SupportedStructures\obj\Debug\SupportedStructures.pdb

@@ -1,0 +1,14 @@
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\obj\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\Logic\obj\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\Logic\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame\Logic\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\Logic\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame\Logic\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame\Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\Logic\obj\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame\Logic\obj\Debug\Logic.pdb

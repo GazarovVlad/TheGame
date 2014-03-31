@@ -1,0 +1,7 @@
+width=1024
+height=768
+screenMode=windowed
+borderLow=3
+borderHight=22
+percentRad=0,03
+step=10

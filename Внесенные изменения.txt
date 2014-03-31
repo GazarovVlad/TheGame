@@ -1,0 +1,12 @@
+Формат записей:
+1. Путь - Sprites\Constructions\
+2. Текстовый и другие файлы - Sprites\Constructions\ConnectionPoint.png (окончание зависит от типа)
+3. Пространство имен - TheGameDrawing.DrawingSpace
+4. Класс - TheGameDrawing.DrawingSpace.Drawing.cs
+5. Метод - TheGameDrawing.DrawingSpace.Drawing->Initialize()
+6. Пояснения пишутся после указания места изменения в скобках
+__________________________________________________________________________________________________
+
+Изменения:
+1.	Изменения в FisicalObjects (новая совершенная система столкновений, а конкретно - расчет новых векторов скоростей)
+1.	UserControl.Interface.InformationWindow (убрано время до волны, изменены константы)

@@ -1,0 +1,28 @@
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\DrawingObjects.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\DrawingObjects.dll

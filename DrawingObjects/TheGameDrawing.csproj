@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BBB6DC96-BC0E-4A83-A642-F164D7F562C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TheGameDrawing</RootNamespace>
+    <AssemblyName>TheGameDrawing</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.DirectX.Direct3DX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.DirectX.DirectDraw, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DrawingSpace\BackGround.cs" />
+    <Compile Include="DrawingSpace\Drawing.cs" />
+    <Compile Include="DrawingSpace\Firing.cs" />
+    <Compile Include="DrawingSpace\GameObjects.cs" />
+    <Compile Include="DrawingSpace\InfoWindow.cs" />
+    <Compile Include="DrawingSpace\Menus.cs" />
+    <Compile Include="DrawingSpace\ConstrPanel.cs" />
+    <Compile Include="MeshRendering\MeshLoader.cs" />
+    <Compile Include="MeshRendering\MeshObject.cs" />
+    <Compile Include="MeshRendering\MeshRenderer.cs" />
+    <Compile Include="MeshRendering\RenderingObjects\CraterOnSurface.cs" />
+    <Compile Include="MeshRendering\RenderingObjects\ExplosionOnSurface.cs" />
+    <Compile Include="MeshRendering\RenderingObjects\Planet.cs" />
+    <Compile Include="MeshRendering\RenderingObjects\PlanetIndicator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextRendering\TextRenderer.cs" />
+    <Compile Include="TextureSpace\SpecialTextures.cs" />
+    <Compile Include="TextureSpace\TextureLoders\AsteroidsTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\BackGroundTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\BordersTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\ConstructiosTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\InfoWindowTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\MineralsTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\ExplosionsTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\MenuTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\MiniMapTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\StarsTex.cs" />
+    <Compile Include="TextureSpace\TextureLoders\UserInterfaceTex.cs" />
+    <Compile Include="TextureSpace\Textures.cs" />
+    <Compile Include="MeshRendering\View.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FisicalObjects\FisicalObjects.csproj">
+      <Project>{5991E6F9-DC0C-4C5C-AB5D-2B5647CF8F01}</Project>
+      <Name>FisicalObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphicObjects\GraphicObjects.csproj">
+      <Project>{B2C3259F-D1A2-4983-BABA-4963403EABEB}</Project>
+      <Name>GraphicObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProgramObjects\ProgramObjects.csproj">
+      <Project>{E73E9328-35B7-4999-8ED8-22B8BB8987EB}</Project>
+      <Name>ProgramObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SupportedStructures\SupportedStructures.csproj">
+      <Project>{C97E274C-9C0E-438D-901B-0EB18AF9AA4F}</Project>
+      <Name>SupportedStructures</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserControl\UserControl.csproj">
+      <Project>{610B2D95-94E2-404B-A413-F14857316E7E}</Project>
+      <Name>UserControl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

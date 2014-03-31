@@ -1,0 +1,90 @@
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\Logic.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\Logic.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\Univer\6sem\Kursach\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\!Code\6sem\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\!Code\6sem\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\!Code\6sem\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+K:\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
+K:\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
+K:\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll
+K:\TheGame\ProgramObjects\bin\Debug\SupportedStructures.dll
+K:\TheGame\ProgramObjects\bin\Debug\GraphicObjects.pdb
+K:\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
+K:\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+K:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
+K:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\TheGameOld\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.pdb

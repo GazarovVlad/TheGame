@@ -1,0 +1,238 @@
+D:\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+D:\TheGame\TheGame\obj\Debug\TheGame.exe
+D:\TheGame\TheGame\obj\Debug\TheGame.pdb
+D:\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\bin\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\bin\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\TheGame.FormMain.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame1.1\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+K:\TheGame\TheGame\obj\Debug\TheGame.exe
+K:\TheGame\TheGame\obj\Debug\TheGame.pdb
+K:\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+K:\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+K:\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+K:\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+K:\TheGame\TheGame\bin\Debug\TheGame.exe
+K:\TheGame\TheGame\bin\Debug\TheGame.pdb
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\TheGame.exe
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\TheGame.pdb
+R:\учеба\3 курс\курсач\TheGame\TheGame\bin\Debug\TheGame.exe
+R:\учеба\3 курс\курсач\TheGame\TheGame\bin\Debug\TheGame.pdb
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+R:\учеба\3 курс\курсач\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+R:\учеба\3 курс\курсач\TheGame\TheGame\bin\Debug\Grafs.exe
+R:\учеба\3 курс\курсач\TheGame\TheGame\bin\Debug\Grafs.pdb
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\bin\Debug\Grafs.exe
+C:\Documents and Settings\User\Рабочий стол\Копия TheGame\TheGame\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\TheGame\obj\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\UserControl.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\UserControl.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\TheGame.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\TheGame.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\DrawingObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\Grafs.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\Logic.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\UserControl.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\DrawingObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\Logic.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\UserControl.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\bin\Debug\Grafs.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\UserControl.dll
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\UserControl.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+D:\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+D:\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+D:\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+D:\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+D:\TheGame\TheGame\bin\Debug\UserControl.dll
+D:\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+D:\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+D:\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+D:\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+D:\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+D:\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+D:\TheGame\TheGame\bin\Debug\UserControl.pdb
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\TheGame.exe
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\TheGame.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\UserControl.dll
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+D:\!Code\6sem\TheGame\TheGame\bin\Debug\UserControl.pdb
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\!Code\6sem\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\UserControl.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\TheGame\bin\Debug\UserControl.pdb
+K:\TheGame\TheGame\bin\Debug\FisicalObjects.exe
+K:\TheGame\TheGame\bin\Debug\GraphicObjects.dll
+K:\TheGame\TheGame\bin\Debug\ProgramObjects.dll
+K:\TheGame\TheGame\bin\Debug\SupportedStructures.dll
+K:\TheGame\TheGame\bin\Debug\TheGameDrawing.dll
+K:\TheGame\TheGame\bin\Debug\UserControl.dll
+K:\TheGame\TheGame\bin\Debug\FisicalObjects.pdb
+K:\TheGame\TheGame\bin\Debug\ProgramObjects.pdb
+K:\TheGame\TheGame\bin\Debug\GraphicObjects.pdb
+K:\TheGame\TheGame\bin\Debug\SupportedStructures.pdb
+K:\TheGame\TheGame\bin\Debug\TheGameDrawing.pdb
+K:\TheGame\TheGame\bin\Debug\UserControl.pdb
+D:\TheGameOld\TheGame\obj\Debug\TheGame.exe
+D:\TheGameOld\TheGame\obj\Debug\TheGame.pdb
+D:\TheGameOld\TheGame\bin\Debug\TheGame.exe
+D:\TheGameOld\TheGame\bin\Debug\TheGame.pdb
+D:\TheGameOld\TheGame\bin\Debug\FisicalObjects.exe
+D:\TheGameOld\TheGame\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\TheGame\bin\Debug\ProgramObjects.dll
+D:\TheGameOld\TheGame\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\TheGame\bin\Debug\TheGameDrawing.dll
+D:\TheGameOld\TheGame\bin\Debug\UserControl.dll
+D:\TheGameOld\TheGame\bin\Debug\FisicalObjects.pdb
+D:\TheGameOld\TheGame\bin\Debug\ProgramObjects.pdb
+D:\TheGameOld\TheGame\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\TheGame\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\TheGame\bin\Debug\TheGameDrawing.pdb
+D:\TheGameOld\TheGame\bin\Debug\UserControl.pdb
+D:\TheGameOld\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\TheGameOld\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\TheGameOld\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+D:\TheGame объедененная\TheGame\obj\Debug\TheGame.exe
+D:\TheGame объедененная\TheGame\obj\Debug\TheGame.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\TheGame.exe
+D:\TheGame объедененная\TheGame\bin\Debug\TheGame.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\FisicalObjects.exe
+D:\TheGame объедененная\TheGame\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\TheGame\bin\Debug\ProgramObjects.dll
+D:\TheGame объедененная\TheGame\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\TheGame\bin\Debug\TheGameDrawing.dll
+D:\TheGame объедененная\TheGame\bin\Debug\UserControl.dll
+D:\TheGame объедененная\TheGame\bin\Debug\FisicalObjects.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\TheGameDrawing.pdb
+D:\TheGame объедененная\TheGame\bin\Debug\UserControl.pdb
+D:\TheGame объедененная\TheGame\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\TheGame\obj\Debug\TheGame.FormMain.resources
+D:\TheGame объедененная\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+D:\TheGame объедененная\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\TheGame.exe
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\TheGame.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\TheGame.exe
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\TheGameDrawing.dll
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\TheGameDrawing.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\bin\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\TheGame.FormMain.resources
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Users\Jan\Desktop\TheGame объедененная\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache

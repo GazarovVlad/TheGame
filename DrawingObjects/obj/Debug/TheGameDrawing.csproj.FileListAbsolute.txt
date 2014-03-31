@@ -1,0 +1,150 @@
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\DrawingObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\DrawingObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\Grafs.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\Logic.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\Grafs.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\Logic.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\obj\Debug\DrawingObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\93.84.116.59\TheGame\DrawingObjects\obj\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+D:\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+D:\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+D:\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+D:\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+D:\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+D:\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+D:\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+D:\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+D:\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\!Code\6sem\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+D:\!Code\6sem\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+K:\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.dll
+K:\TheGame\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+K:\TheGame\DrawingObjects\bin\Debug\FisicalObjects.exe
+K:\TheGame\DrawingObjects\bin\Debug\GraphicObjects.dll
+K:\TheGame\DrawingObjects\bin\Debug\ProgramObjects.dll
+K:\TheGame\DrawingObjects\bin\Debug\SupportedStructures.dll
+K:\TheGame\DrawingObjects\bin\Debug\UserControl.dll
+K:\TheGame\DrawingObjects\bin\Debug\FisicalObjects.pdb
+K:\TheGame\DrawingObjects\bin\Debug\ProgramObjects.pdb
+K:\TheGame\DrawingObjects\bin\Debug\GraphicObjects.pdb
+K:\TheGame\DrawingObjects\bin\Debug\SupportedStructures.pdb
+K:\TheGame\DrawingObjects\bin\Debug\UserControl.pdb
+K:\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+K:\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.dll
+K:\TheGame\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+D:\TheGameOld\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\DrawingObjects\obj\Debug\TheGameDrawing.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\TheGameDrawing.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+D:\TheGameOld\DrawingObjects\bin\Debug\FisicalObjects.exe
+D:\TheGameOld\DrawingObjects\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\ProgramObjects.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\UserControl.dll
+D:\TheGameOld\DrawingObjects\bin\Debug\FisicalObjects.pdb
+D:\TheGameOld\DrawingObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGameOld\DrawingObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\DrawingObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\DrawingObjects\bin\Debug\UserControl.pdb
+D:\TheGameOld\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\TheGameDrawing.dll
+D:\TheGame объедененная\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\FisicalObjects.exe
+D:\TheGame объедененная\DrawingObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\DrawingObjects\bin\Debug\ProgramObjects.dll
+D:\TheGame объедененная\DrawingObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\DrawingObjects\bin\Debug\UserControl.dll
+D:\TheGame объедененная\DrawingObjects\bin\Debug\FisicalObjects.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\DrawingObjects\bin\Debug\UserControl.pdb
+D:\TheGame объедененная\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\DrawingObjects\obj\Debug\TheGameDrawing.dll
+D:\TheGame объедененная\DrawingObjects\obj\Debug\TheGameDrawing.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\TheGameDrawing.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\TheGameDrawing.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\bin\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\obj\Debug\TheGameDrawing.dll
+C:\Users\Jan\Desktop\TheGame объедененная\DrawingObjects\obj\Debug\TheGameDrawing.pdb

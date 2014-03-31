@@ -1,0 +1,18 @@
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\DrawingObjects.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\obj\Debug\DrawingObjects.exe
+D:\Univer\6sem\Kursach\TheGame MAIN\DrawingObjects\obj\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\DrawingObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\Grafs.exe
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\Logic.exe
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\Grafs.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\bin\Debug\DrawingObjects.dll
+D:\Univer\6sem\Kursach\TheGame\DrawingObjects\obj\Debug\DrawingObjects.dll
