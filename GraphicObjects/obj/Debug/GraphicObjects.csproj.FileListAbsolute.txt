@@ -1,0 +1,55 @@
+D:\Univer\6sem\Kursach\TheGame\Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\Logic\obj\Debug\Logic.pdb
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\FisicalObjects.exe
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\bin\Debug\FisicalObjects.pdb
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+D:\Univer\6sem\Kursach\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\FisicalObjects.exe
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\bin\Debug\FisicalObjects.pdb
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+C:\Documents and Settings\User\Рабочий стол\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+D:\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+D:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+E:\Documents and Settings\IvanyCH\Рабочий стол\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+D:\!Code\6sem\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+D:\!Code\6sem\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+D:\!Code\6sem\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+D:\!Code\6sem\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+D:\!Code\6sem\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\!Code\6sem\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+D:\!Code\6sem\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+K:\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+K:\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+K:\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+K:\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+K:\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+K:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+K:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb

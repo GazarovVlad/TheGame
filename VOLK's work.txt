@@ -1,0 +1,23 @@
+Ретекстуирование:
+	MainMenu.png
+	DownBorder.png
+	RightBorder.png
+	MiniMapBorder.png
+	checkbox1.png
+	checkbox2.png
+	checkbox3.png
+	checkbox4.png
+	checkbox5.png
+	checkbox6.png
+	IconBorder2.png
+	ConstructionBuildingShine1.png
+	ConstructionBuildingShine2.png
+	ConstructionBuildingShine3.png
+	ConstructionBuildingShine4.png
+Исправление ошибок:
+	НАКОНЕЦ-ТО решена проблема с отображением земли в 3D
+		- заменены mesh для: Земли, облаков, индикатора земли, плоскости кратеров
+		- рассчитаны коэфиценты и занесина их генерация и использование в код
+		(для совмещения 3D и 2D по координатам и размерам)
+		- некоторые исправления связаные с заменой перспективной камеры на ортогональную
+		- дополнения и исправления к расположению Земли и ее индикатора

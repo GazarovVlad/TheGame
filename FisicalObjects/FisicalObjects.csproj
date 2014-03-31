@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5991E6F9-DC0C-4C5C-AB5D-2B5647CF8F01}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FisicalObjects</RootNamespace>
+    <AssemblyName>FisicalObjects</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AIUnits.cs" />
+    <Compile Include="Cosmos\Aliens\AlienAvailible.cs" />
+    <Compile Include="Cosmos\Aliens\AliensField.cs" />
+    <Compile Include="Cosmos\Aliens\Base\Alien.cs" />
+    <Compile Include="Cosmos\Aliens\Base\IAlien.cs" />
+    <Compile Include="Cosmos\Aliens\Cell.cs" />
+    <Compile Include="Cosmos\Aliens\Descendants\SimpleAlien.cs" />
+    <Compile Include="Cosmos\Asteroids\AsterAvalible.cs" />
+    <Compile Include="Cosmos\Asteroids\AsterField.cs" />
+    <Compile Include="Cosmos\Asteroids\Cell.cs" />
+    <Compile Include="Cosmos\Asteroids\Base\Asteroid.cs" />
+    <Compile Include="Cosmos\Asteroids\Base\IAsteroid.cs" />
+    <Compile Include="Constructions\Base\Body.cs" />
+    <Compile Include="Constructions\ConstrLoder.cs" />
+    <Compile Include="Constructions\ConstrOption.cs" />
+    <Compile Include="Constructions\Descendants\Building.cs" />
+    <Compile Include="Constructions\Base\IBody.cs" />
+    <Compile Include="Constructions\Descendants\Tower.cs" />
+    <Compile Include="Constructions\ConstrGroup.cs" />
+    <Compile Include="Cosmos\Asteroids\Descendants\SimpleAsteroid.cs" />
+    <Compile Include="Cosmos\Minerals\Base\Mineral.cs" />
+    <Compile Include="Cosmos\Minerals\MineAvalible.cs" />
+    <Compile Include="Cosmos\Minerals\MineCluster.cs" />
+    <Compile Include="Cosmos\Minerals\MineGroup.cs" />
+    <Compile Include="Earth.cs" />
+    <Compile Include="Loder.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transist\TransAlien.cs" />
+    <Compile Include="Transist\TransAsteroid.cs" />
+    <Compile Include="Transist\TransFire.cs" />
+    <Compile Include="Transist\TransInfo.cs" />
+    <Compile Include="Transist\TransMineral.cs" />
+    <Compile Include="Transist\TransConstrInfo.cs" />
+    <Compile Include="Transist\TransBuilding.cs" />
+    <Compile Include="Transist\TransTower.cs" />
+    <Compile Include="Transist\TransWay.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GraphicObjects\GraphicObjects.csproj">
+      <Project>{B2C3259F-D1A2-4983-BABA-4963403EABEB}</Project>
+      <Name>GraphicObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

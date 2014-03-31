@@ -1,0 +1,4 @@
+stages=9 6 6 25 12 10 12 10 8 1
+typeCounts=2 1 2 1 1 1 1 1 1 6
+typeNames=A Little LittleRock Small Small2 AsterClash1 AsterClash2 Aster24 Aster32 FireSmoll
+textureSizes=30 13 13 60 45 8 16 24 32 4

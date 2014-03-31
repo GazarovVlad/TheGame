@@ -1,0 +1,5 @@
+D:\Grafs\Grafs\obj\Debug\ResolveAssemblyReference.cache
+D:\Grafs\Grafs\bin\Debug\Grafs.exe
+D:\Grafs\Grafs\bin\Debug\Grafs.pdb
+D:\Grafs\Grafs\obj\Debug\Grafs.exe
+D:\Grafs\Grafs\obj\Debug\Grafs.pdb
