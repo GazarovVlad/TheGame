@@ -25,7 +25,7 @@ namespace UserControl
                     if (Mouse.Pressed)
                     {
 						if ((Mouse.DX >= WorkSpace.DX) && (Mouse.DY >= WorkSpace.DY) && (Mouse.DX <= WorkSpace.DX + WorkSpace.Space.Width) && (Mouse.DY <= WorkSpace.DY + WorkSpace.Space.Height))
-							ControllerUserSelections.ProcessConstrSelection();	// клик был в WorkSpace, подозрение на попытку выделить объект
+							ControllerUserSelections.ProcessConstrSelection();	// клик был в WorkSpace, подозрение на попытку выделить постройку
 						else
 						{
 							if (InformationWindow.CheckClick())

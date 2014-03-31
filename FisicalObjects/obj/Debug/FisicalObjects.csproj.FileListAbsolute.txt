@@ -69,6 +69,33 @@ K:\TheGame\FisicalObjects\bin\Debug\SupportedStructures.pdb
 K:\TheGame\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
 K:\TheGame\FisicalObjects\obj\Debug\FisicalObjects.exe
 K:\TheGame\FisicalObjects\obj\Debug\FisicalObjects.pdb
+D:\TheGameOld\FisicalObjects\bin\Debug\FisicalObjects.exe
+D:\TheGameOld\FisicalObjects\bin\Debug\FisicalObjects.pdb
+D:\TheGameOld\FisicalObjects\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\FisicalObjects\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\FisicalObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\FisicalObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\FisicalObjects\obj\Debug\FisicalObjects.exe
+D:\TheGameOld\FisicalObjects\obj\Debug\FisicalObjects.pdb
+D:\TheGame объедененная\FisicalObjects\bin\Debug\FisicalObjects.exe
+D:\TheGame объедененная\FisicalObjects\bin\Debug\FisicalObjects.pdb
+D:\TheGame объедененная\FisicalObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\FisicalObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\FisicalObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\FisicalObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\FisicalObjects\obj\Debug\FisicalObjects.exe
+D:\TheGame объедененная\FisicalObjects\obj\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\obj\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGame объедененная\FisicalObjects\obj\Debug\FisicalObjects.pdb
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\bin\Debug\FisicalObjects.exe
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\bin\Debug\FisicalObjects.pdb
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\bin\Debug\GraphicObjects.dll
@@ -78,12 +105,3 @@ C:\Users\Jan\Desktop\TheGame\FisicalObjects\bin\Debug\SupportedStructures.pdb
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\FisicalObjects.exe
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\FisicalObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\FisicalObjects.exe
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\FisicalObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\GraphicObjects.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\SupportedStructures.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\GraphicObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\bin\Debug\SupportedStructures.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\obj\Debug\FisicalObjects.exe
-C:\Users\Jan\Desktop\TheGame — копия (2)\FisicalObjects\obj\Debug\FisicalObjects.pdb

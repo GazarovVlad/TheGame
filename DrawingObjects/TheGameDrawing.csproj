@@ -70,11 +70,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextRendering\TextRenderer.cs" />
     <Compile Include="TextureSpace\SpecialTextures.cs" />
+    <Compile Include="TextureSpace\TextureLoders\AliensTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\AsteroidsTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\BackGroundTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\BordersTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\ConstructiosTex.cs" />
-    <Compile Include="TextureSpace\TextureLoders\AliensTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\InfoWindowTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\MineralsTex.cs" />
     <Compile Include="TextureSpace\TextureLoders\ExplosionsTex.cs" />

@@ -39,7 +39,10 @@ namespace TheGameDrawing.DrawingSpace
             //presentParams.EnableAutoDepthStencil = true;
             //presentParams.AutoDepthStencilFormat = DepthFormat.D16;
 
-            OurDevice = new Microsoft.DirectX.Direct3D.Device(0, DeviceType.Hardware, OurForm, CreateFlags.SoftwareVertexProcessing, presentParams);
+			OurDevice = new Microsoft.DirectX.Direct3D.Device(0, DeviceType.Hardware, OurForm, CreateFlags.SoftwareVertexProcessing, presentParams);
+			OurDevice.RenderState.AlphaBlendEnable = true;
+			OurDevice.RenderState.SourceBlend = Blend.SourceAlpha;
+			OurDevice.RenderState.DestinationBlend = Blend.InvSourceAlpha;
             OurSprite = new Sprite(OurDevice);
             MeshRenderer.Initialize(OurDevice);
             TextRenderer.Initialize(OurDevice);
@@ -52,6 +55,11 @@ namespace TheGameDrawing.DrawingSpace
             OurDevice.EndScene();
             OurDevice.Present();
         }
+
+		public static void AddExplsOnSurf()
+		{
+			MeshRenderer.planet.AddExplosions(AIUnits.GetExplosionsOnSurface());
+		}
 
         private static void DrawGameProcess()
         {
@@ -89,6 +97,5 @@ namespace TheGameDrawing.DrawingSpace
             if (MenuMain.Showed)
                 Menus.DrawMainMenu();
         }
-
     }
 }

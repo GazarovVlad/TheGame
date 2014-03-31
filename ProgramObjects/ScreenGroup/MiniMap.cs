@@ -43,8 +43,8 @@ namespace ProgramObjects.ScreenGroup
         public static Point GetMovedPozition()
         {
             Point poz = new Point(WorkSpace.Space.X, WorkSpace.Space.Y);
-            int mPX = Mouse.PresedDX;
-            int mPY = Mouse.PresedDY;
+            int mPX = Mouse.DX;
+            int mPY = Mouse.DY;
             int iX = (int)(MiniScreenWidth / 2);
             int iY = (int)(MiniScreenHeight / 2);
             if ((mPX >= DX + iX) && (mPX <= DX + Size - iX) && (mPY >= DY + iY) && (mPY <= DY + Size - iY)) //  удачное попадание в центр

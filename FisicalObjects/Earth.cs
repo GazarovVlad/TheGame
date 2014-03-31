@@ -7,6 +7,8 @@ namespace FisicalObjects
 {
 	static class Earth
 	{
+		public static bool IsExpls;
+
 		private const int MaxHP = 5000;
 		private const int MineralIndent = 250;
 		private const float MinClashDistance = 0.65f;
@@ -20,6 +22,7 @@ namespace FisicalObjects
 
 		public static void Inicialize(int mapsize, int radius)
 		{
+			IsExpls = false;
 			Radius = radius;
 			Coords = new Point(mapsize / 2, mapsize / 2);
 			Explosions = new List<Point>();
@@ -55,7 +58,8 @@ namespace FisicalObjects
 		public static void Demage(int demage, Point position)
 		{
 			HitPoints -= demage;
-			Explosions.Add(position);
+			Explosions.Add(new Point(position.X - Coords.X, position.Y - Coords.Y));
+			IsExpls = true;
 		}
 
 		public static int GetHitPoints()
@@ -76,6 +80,12 @@ namespace FisicalObjects
 		public static List<Point> GetExplosions()
 		{
 			return Explosions;
+		}
+
+		public static void ClearExpls()
+		{
+			IsExpls = false;
+			Explosions.Clear();
 		}
 
 		public static void Prepare()

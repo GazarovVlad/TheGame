@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
 using FisicalObjects.Transist;
-using FisicalObjects.Cosmos;
 using FisicalObjects.Cosmos.Minerals;
 using FisicalObjects.Cosmos.Asteroids;
 
@@ -11,17 +10,18 @@ namespace FisicalObjects.Constructions.Descendants
 {
     class Tower:Body,IBody
 	{
-        public const string ConstrType = "Tower";
+
+		public const string ConstrType = "Tower";
 
         public int TextureBaseIndex { get; private set; }
         public int TextureTurretIndex { get; private set; }
-        public float TurretAngle { get; private set; }
-        public int Recharge { get; protected set; }				// Время перезарядки (но присваевается в случае выстрела)
-        public int Recharged { get; protected set; }			// Оставшееся время до перезарядки, 0 - можно стрелять
-        public int TargetMineralInd { get; private set; }
-        public int FireRang { get; private set; }
-        public string TargetType { get; private set; }
-        public string FireType { get; private set; }			// Однозначный тип выстрела
+		public float TurretAngle { get; private set; }
+		public int Recharge { get; protected set; }				// Время перезарядки (но присваевается в случае выстрела)
+		public int Recharged { get; protected set; }			// Оставшееся время до перезарядки, 0 - можно стрелять
+		public int TargetMineralInd { get; private set; }
+		public int FireRang { get; private set; }
+		public string TargetType { get; private set; }
+		public string FireType { get; private set; }			// Однозначный тип выстрела
 		public int FireDemage { get; private set; }				// Урон при попадании
 		public int FireMass { get; private set; }			// Велечина толчка при попадании
 		public int RodRadius { get; private set; }

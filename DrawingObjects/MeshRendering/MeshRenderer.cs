@@ -16,6 +16,8 @@ namespace TheGameDrawing.MeshRendering
         public static Planet planet { get; private set; }
         public static PlanetIndicator planetIndicator { get; private set; }
 
+		private const float Inicializer = 1.5f;
+
         public static void Initialize(Device targetDevice)
         {
             device = targetDevice;
@@ -32,9 +34,9 @@ namespace TheGameDrawing.MeshRendering
 			planet.LoadCraters(device, "Meshes\\Plane_CratersAndExplosions.x", "Textures\\craters\\");
 
 			MeshObject indicator = MeshLoader.LoadMesh(device, "Meshes\\Sphere_EathIndicator.x", "Textures\\Earth_.jpg");
-			planetIndicator = new PlanetIndicator(indicator, new Vector2((Screen.Width / 2.0f - WorkSpace.MiniMapBorder.Width / 2.0f) * View.ConstXCoef, -1-(Screen.Height / 2.0f - WorkSpace.MiniMapBorder.Height / 2.0f) * View.ConstYCoef));
+			planetIndicator = new PlanetIndicator(indicator, new Vector2((Screen.Width / 2.0f - WorkSpace.MiniMapBorder.Width / 2.0f) * View.ConstXCoef, Inicializer - (Screen.Height / 2.0f - WorkSpace.MiniMapBorder.Height / 2.0f) * View.ConstYCoef));
 
-            View.SetupCameraAndLight(device);
+			View.SetupCameraAndLight(device);
         }
     }
 }

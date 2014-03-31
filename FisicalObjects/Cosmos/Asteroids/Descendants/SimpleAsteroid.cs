@@ -53,12 +53,12 @@ namespace FisicalObjects.Cosmos.Asteroids.Descendants
 			vy = ((Center.Y - Y) / r) * a;
 			VX += (float)vx;
 			VY += (float)vy;
-            //if (Earth.IsClash(new Point((int)X, (int)Y), Radius, ClashDistance))
-            //{
-            //    Earth.Demage(Mass, new Point((int)X, (int)Y));
-            //    HitPoints = 0;
-            //    Explodes = false;
-            //}
+			if (Earth.IsClash(new Point((int)X, (int)Y), Radius, ClashDistance))
+			{
+				Earth.Demage(Mass, new Point((int)X, (int)Y));
+				HitPoints = 0;
+				Explodes = false;
+			}
 		}
 	}
 }

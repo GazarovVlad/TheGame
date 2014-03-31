@@ -129,7 +129,15 @@ namespace FisicalObjects
 
 		public static List<Point> GetExplosionsOnSurface()
 		{
-			return Earth.GetExplosions();
+			List<Point> expls = new List<Point>();
+			expls.AddRange(Earth.GetExplosions());
+			Earth.ClearExpls();
+			return expls;
+		}
+
+		public static bool AnyExplsOnSurf()
+		{
+			return Earth.IsExpls;
 		}
 
 		public static string GetInfoByType(int type)

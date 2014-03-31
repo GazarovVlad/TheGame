@@ -46,6 +46,27 @@ K:\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
 K:\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
 K:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
 K:\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+D:\TheGameOld\GraphicObjects\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\GraphicObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\GraphicObjects\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\GraphicObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\GraphicObjects\obj\Debug\GraphicObjects.dll
+D:\TheGameOld\GraphicObjects\obj\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\GraphicObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\GraphicObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\GraphicObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\GraphicObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\GraphicObjects\obj\Debug\GraphicObjects.dll
+D:\TheGame объедененная\GraphicObjects\obj\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\obj\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\GraphicObjects\obj\Debug\GraphicObjects.pdb
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\GraphicObjects.dll
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\GraphicObjects.pdb
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\SupportedStructures.dll

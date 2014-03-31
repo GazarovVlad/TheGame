@@ -15,25 +15,25 @@ namespace TheGameDrawing.MeshRendering
         static private Vector3 cameraTarget;
         static private Vector3 cameraUpVector;
 
+		static public float ConstCoef { get; private set; }
 		static public float ConstXCoef { get; private set; }
 		static public float ConstYCoef { get; private set; }
-		//	1024x768 - X: 40.0f / 60.0f + 0.1f + 0.072f
-		//             Y: 40.0f / 60.0f + 0.1f + 0.012f
 
         public static void Initialize()
         {
-			ConstXCoef = 0.000234375f * Screen.ResolutionW + 0.598667f;//0.83866f;
-			ConstYCoef = 0.000234375f * Screen.ResolutionH + 0.598667f;//0.77866f;
+			ConstXCoef = (Screen.ResolutionW * 1.0f) / Screen.Width;
+			ConstYCoef = (Screen.ResolutionH * 1.0f) / Screen.Height;
+			ConstCoef = ConstXCoef / 2.0f + ConstYCoef / 2.0f;
             zNearPlane = 1.0f;
             zFarPlane = 10000.0f;
-            cameraPosition = new Vector3(0.0f, 0, -300.0f);
+            cameraPosition = new Vector3(0.0f, 0, -500.0f);
             cameraTarget = new Vector3(0.0f, 0.0f, 0.0f);
             cameraUpVector = new Vector3(0, 1, 0);
         }
 
         public static void SetupCameraAndLight(Device targetDevice)
         {
-            targetDevice.Transform.Projection = Matrix.OrthoLH(WorkSpace.Space.Width, WorkSpace.Space.Height, zNearPlane, zFarPlane);
+			targetDevice.Transform.Projection = Matrix.OrthoLH(Screen.ResolutionW, Screen.ResolutionH, zNearPlane, zFarPlane);
             targetDevice.Transform.View = Matrix.LookAtLH(cameraPosition, cameraTarget, cameraUpVector);
             targetDevice.RenderState.Ambient = System.Drawing.Color.White;
             targetDevice.Lights[0].Type = LightType.Directional;
@@ -67,8 +67,8 @@ namespace TheGameDrawing.MeshRendering
         private static Vector3 CoordinateCorrection(Vector2 pos)
         {
             Vector3 coords = new Vector3();
-			coords.X = ((WorkSpace.MapLen / 2.0f - Screen.Width / 2.0f) - WorkSpace.Space.X) * ConstXCoef + 6;
-			coords.Y = (WorkSpace.Space.Y - (WorkSpace.MapLen / 2.0f - Screen.Height / 2.0f)) * ConstYCoef - 4;
+			coords.X = ((WorkSpace.MapLen / 2.0f - Screen.Width / 2.0f) - WorkSpace.Space.X) * ConstXCoef;
+			coords.Y = (WorkSpace.Space.Y - (WorkSpace.MapLen / 2.0f - Screen.Height / 2.0f)) * ConstYCoef;
 			coords.Z = 0;
             return coords;
         }

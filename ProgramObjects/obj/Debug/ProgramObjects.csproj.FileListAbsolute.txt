@@ -61,6 +61,33 @@ K:\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
 K:\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
 K:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
 K:\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\TheGameOld\ProgramObjects\obj\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.dll
+D:\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\ProgramObjects\obj\Debug\ProgramObjects.pdb
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\bin\Debug\ProgramObjects.dll
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\bin\Debug\ProgramObjects.pdb
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\bin\Debug\GraphicObjects.dll

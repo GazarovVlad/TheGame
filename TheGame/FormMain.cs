@@ -27,17 +27,18 @@ namespace TheGame
     {
         public static bool formIsActiv { private set; get; }
         private static bool ended = false;
-        private static Point pos;
-        private static bool clicked;
+		private static Point pos;
+		private static bool clicked;
+		private static bool down;
 
         public FormMain()
         {
             InitializeComponent();
             Keyboard.Inicialize();
 			Settings.LoadFromFile();
-            AIUnits.Inicialize(WorkSpace.MapLen,Planet.PlanetRadius);
+			AIUnits.Inicialize(WorkSpace.MapLen, (int)Planet.Planet3DRadius);
             Drawing.Initialize(this);
-            MenuMain.Initialize();
+			MenuMain.Initialize();
 			ConstrPanelControl.Initialize();
 			InformationWindow.Initialize(WorkSpace.DownBorder, WorkSpace.MiniMapBorder, WorkSpace.Frame);
             Textures.Load();
@@ -78,6 +79,8 @@ namespace TheGame
                         if (AIUnits.WorldExist)
                         {
                             AIUnits.Process();
+							if (AIUnits.AnyExplsOnSurf())
+								Drawing.AddExplsOnSurf();
 							Explosions.Process();
 							InformationWindow.Process();
                         }
@@ -106,7 +109,7 @@ namespace TheGame
             Keyboard.AnyKeyDown(e);
         }
 
-        private void FormMain_MouseClick(object sender, MouseEventArgs e)
+        /*private void FormMain_MouseClick(object sender, MouseEventArgs e)
         {
             if (ProgramObjects.ScreenGroup.Screen.ScreenType == ScreenMode.fullscreen)
             {
@@ -118,20 +121,57 @@ namespace TheGame
                 pos = new Point(e.X, e.Y);
                 clicked = true;
             }
-        }
+        }*/
 
-        private void MouseBarrierProcess()
-        {
-            if (clicked)
-                Mouse.Press(pos.X, pos.Y);
-            clicked = false;
-        }
+		private void MouseBarrierProcess()
+		{
+			if (clicked)
+				Mouse.Press(pos.X, pos.Y);
+			if (down)
+				Mouse.MouseDown(pos.X, pos.Y);
+			clicked = false;
+			down = false;
+		}
 
-        private void timerRestart_Tick(object sender, EventArgs e)
-        {
-            //Save game
-            MenuMain.restartApp = false;
-            Application.Restart();
-        }
+		private void timerRestart_Tick(object sender, EventArgs e)
+		{
+			//Save game
+			MenuMain.restartApp = false;
+			Application.Restart();
+		}
+
+		private void FormMain_MouseDown(object sender, MouseEventArgs e)
+		{
+			if (ProgramObjects.ScreenGroup.Screen.ScreenType == ScreenMode.fullscreen)
+			{
+				pos = MousePosition;
+			}
+			else
+			{
+				pos = new Point(e.X, e.Y);
+			}
+
+			if (e.Button == MouseButtons.Left)
+			{
+				clicked = true;
+			}
+			else if (e.Button == MouseButtons.Right)
+			{
+				down = true;
+			}
+		}
+
+		private void FormMain_MouseUp(object sender, MouseEventArgs e)
+		{
+			if (ProgramObjects.ScreenGroup.Screen.ScreenType == ScreenMode.fullscreen)
+			{
+				pos = MousePosition;
+			}
+			else
+			{
+				pos = new Point(e.X, e.Y);
+			}
+			Mouse.Up();
+		}
     }
 }

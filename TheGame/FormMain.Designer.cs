@@ -64,7 +64,8 @@
 			this.Name = "FormMain";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Eternal Black Space";
-			this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.FormMain_MouseClick);
+			this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.FormMain_MouseUp);
+			this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FormMain_MouseDown);
 			this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.FormMain_KeyUp);
 			this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormMain_KeyDown);
 			this.ResumeLayout(false);

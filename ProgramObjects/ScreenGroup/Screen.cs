@@ -38,18 +38,28 @@ namespace ProgramObjects.ScreenGroup
         public static void Move()
         {
             //  Mouse
-            if (ScreenType == ScreenMode.fullscreen)
-                WorkSpace.MoveFullScreen();
-            else
-                WorkSpace.MoveWindowed();
+            if (!Mouse.RDown)
+            {
+                if (ScreenType == ScreenMode.fullscreen)
+                    WorkSpace.MoveFullScreen();
+                /*else
+					WorkSpace.MoveWindowed();*/
+            }
 
             //  Keyboard
-            WorkSpace.MoveKeyboard();
+			WorkSpace.MoveKeyboard();
 
             //  MiniMap
-            if (Mouse.Pressed)
-                if ((Mouse.PresedDX > MiniMap.DX) && (Mouse.PresedDX < MiniMap.DX + MiniMap.Size) && (Mouse.PresedDY > MiniMap.DY) && (Mouse.PresedDY < MiniMap.DY + MiniMap.Size))
+            if (Mouse.LDown)
+                if ((Mouse.DX > MiniMap.DX) && (Mouse.DX < MiniMap.DX + MiniMap.Size) && (Mouse.DY > MiniMap.DY) && (Mouse.DY < MiniMap.DY + MiniMap.Size))
                     WorkSpace.MoveByMiniMap();
+
+            //  MouseDoun
+            // зажим мыши//перемещение зажимом мыши
+            if (Mouse.RDown && ((Mouse.DX >= WorkSpace.DX) && (Mouse.DY >= WorkSpace.DY) && (Mouse.DX <= WorkSpace.DX + WorkSpace.Space.Width) && (Mouse.DY <= WorkSpace.DY + WorkSpace.Space.Height)))
+            {
+                WorkSpace.MoveByMouseDown();
+            }
         }
     }
 }

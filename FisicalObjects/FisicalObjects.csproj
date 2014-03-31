@@ -57,9 +57,9 @@
     <Compile Include="Cosmos\Aliens\Descendants\SimpleAlien.cs" />
     <Compile Include="Cosmos\Asteroids\AsterAvalible.cs" />
     <Compile Include="Cosmos\Asteroids\AsterField.cs" />
-    <Compile Include="Cosmos\Asteroids\Cell.cs" />
     <Compile Include="Cosmos\Asteroids\Base\Asteroid.cs" />
     <Compile Include="Cosmos\Asteroids\Base\IAsteroid.cs" />
+    <Compile Include="Cosmos\Asteroids\Cell.cs" />
     <Compile Include="Constructions\Base\Body.cs" />
     <Compile Include="Constructions\ConstrLoder.cs" />
     <Compile Include="Constructions\ConstrOption.cs" />

@@ -89,6 +89,45 @@ K:\TheGame\UserControl\bin\Debug\ProgramObjects.pdb
 K:\TheGame\UserControl\obj\Debug\ResolveAssemblyReference.cache
 K:\TheGame\UserControl\obj\Debug\UserControl.dll
 K:\TheGame\UserControl\obj\Debug\UserControl.pdb
+D:\TheGameOld\UserControl\bin\Debug\UserControl.dll
+D:\TheGameOld\UserControl\bin\Debug\UserControl.pdb
+D:\TheGameOld\UserControl\bin\Debug\FisicalObjects.exe
+D:\TheGameOld\UserControl\bin\Debug\GraphicObjects.dll
+D:\TheGameOld\UserControl\bin\Debug\ProgramObjects.dll
+D:\TheGameOld\UserControl\bin\Debug\SupportedStructures.dll
+D:\TheGameOld\UserControl\bin\Debug\FisicalObjects.pdb
+D:\TheGameOld\UserControl\bin\Debug\GraphicObjects.pdb
+D:\TheGameOld\UserControl\bin\Debug\SupportedStructures.pdb
+D:\TheGameOld\UserControl\bin\Debug\ProgramObjects.pdb
+D:\TheGameOld\UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGameOld\UserControl\obj\Debug\UserControl.dll
+D:\TheGameOld\UserControl\obj\Debug\UserControl.pdb
+D:\TheGame объедененная\UserControl\bin\Debug\UserControl.dll
+D:\TheGame объедененная\UserControl\bin\Debug\UserControl.pdb
+D:\TheGame объедененная\UserControl\bin\Debug\FisicalObjects.exe
+D:\TheGame объедененная\UserControl\bin\Debug\GraphicObjects.dll
+D:\TheGame объедененная\UserControl\bin\Debug\ProgramObjects.dll
+D:\TheGame объедененная\UserControl\bin\Debug\SupportedStructures.dll
+D:\TheGame объедененная\UserControl\bin\Debug\FisicalObjects.pdb
+D:\TheGame объедененная\UserControl\bin\Debug\GraphicObjects.pdb
+D:\TheGame объедененная\UserControl\bin\Debug\SupportedStructures.pdb
+D:\TheGame объедененная\UserControl\bin\Debug\ProgramObjects.pdb
+D:\TheGame объедененная\UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\TheGame объедененная\UserControl\obj\Debug\UserControl.dll
+D:\TheGame объедененная\UserControl\obj\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\obj\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGame объедененная\UserControl\obj\Debug\UserControl.pdb
 C:\Users\Jan\Desktop\TheGame\UserControl\bin\Debug\UserControl.dll
 C:\Users\Jan\Desktop\TheGame\UserControl\bin\Debug\UserControl.pdb
 C:\Users\Jan\Desktop\TheGame\UserControl\bin\Debug\FisicalObjects.exe
@@ -102,29 +141,3 @@ C:\Users\Jan\Desktop\TheGame\UserControl\bin\Debug\ProgramObjects.pdb
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\UserControl.dll
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\UserControl.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\UserControl.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\UserControl.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\FisicalObjects.exe
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\GraphicObjects.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\ProgramObjects.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\SupportedStructures.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\FisicalObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\GraphicObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\SupportedStructures.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\bin\Debug\ProgramObjects.pdb
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\obj\Debug\UserControl.dll
-C:\Users\Jan\Desktop\TheGame — копия (2)\UserControl\obj\Debug\UserControl.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\UserControl.dll
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\UserControl.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\FisicalObjects.exe
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\GraphicObjects.dll
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\ProgramObjects.dll
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\SupportedStructures.dll
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\FisicalObjects.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\GraphicObjects.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\SupportedStructures.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\bin\Debug\ProgramObjects.pdb
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\obj\Debug\ResolveAssemblyReference.cache
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\obj\Debug\UserControl.dll
-D:\IvanyCH\Univer\8sem\Курсовая\TheGame\UserControl\obj\Debug\UserControl.pdb

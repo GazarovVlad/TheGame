@@ -13,23 +13,26 @@ namespace TheGameDrawing.MeshRendering.RenderingObjects
 {
     public class Planet
 	{
-		public const int PlanetRadius = 220; // 40.0 == 60 166.667
+		public const float Planet3DRadius = 170;
+		public static float Planet2DRadius { get; private set; }
 
         public MeshObject Earth { get; private set; }
         public MeshObject Clouds { get; private set; }
 		public bool Rotate { get; private set; }
         public Vector2 Pos;
         public List<ExplosionOnSurface> Explosions; //типы взрывов
-        private List<CratersOnSurface> Craters; //типы кратеров
-
+        
+		private static Random rand = new Random();
         private static string[] SupportedTextureFormats = { "*.png" };
 
+		private List<CratersOnSurface> Craters; //типы кратеров
 		private float IncRotationEarth = 0.002f;
         private float IncRotationClouds = 0.003f;
-        private bool placeOfRandomExplosion = true;
+        //private bool placeOfRandomExplosion = true;
 
         public Planet(MeshObject earth, MeshObject clouds, Vector2 pos)
         {
+			Planet2DRadius = Planet3DRadius * View.ConstCoef;
             Earth = earth;
             Clouds = clouds;
 			Rotate = true;
@@ -65,7 +68,7 @@ namespace TheGameDrawing.MeshRendering.RenderingObjects
                 stages[i] = MeshLoader.LoadMesh(device, pathToObject, fileNames[i]);
                 stages[i].Pos = Pos;
             }
-            ExplosionOnSurface exp = new ExplosionOnSurface(stages, new Vector3(-IncRotationEarth, 0.0f, 0.0f));
+            ExplosionOnSurface exp = new ExplosionOnSurface(stages, new Vector3(IncRotationEarth, 0.0f, 0.0f));
             Explosions.Add(exp);
         }
 
@@ -79,27 +82,37 @@ namespace TheGameDrawing.MeshRendering.RenderingObjects
                 craters[i].Pos = Pos;
             }
             for (int i = 0; i < craters.Length; i++)
-				Craters.Add(new CratersOnSurface(craters[i], new Vector3(-IncRotationEarth, 0.0f, 0.0f)));
+				Craters.Add(new CratersOnSurface(craters[i], new Vector3(IncRotationEarth, 0.0f, 0.0f)));
 			//AddExplosion(1, 1);
         }
 
+		public void AddExplosions(List<Point> expls)
+		{
+			foreach (Point ptr in expls)
+				AddExplosion(ptr.X, ptr.Y);
+		}
+
         public void AddExplosion(int x, int y)
         {
-            Vector3 turn = new Vector3();
-
-            Random rand = new Random();
-			turn.X = 0.0f;//(float)rand.NextDouble() + (float)rand.NextDouble() + 3.3f;
-            turn.Y = 0.0f;// (float)Math.PI;//(float)((rand.NextDouble()+rand.NextDouble()) * Math.PI); //от 0 до 2*PI
-			turn.Z = 0.0f;//(float)rand.NextDouble() + 0.3f;
-            if (placeOfRandomExplosion)
+			Vector3 turn = Convert2Dto3D(x, y);
+            /*if (placeOfRandomExplosion)
                 turn.Z = -turn.Z;
-            placeOfRandomExplosion = !placeOfRandomExplosion;
-
+            placeOfRandomExplosion = !placeOfRandomExplosion;*/
             int index = rand.Next(0, Explosions.Count);
             Explosions[index].AddExplosion(turn);
             index = rand.Next(0, Craters.Count);
             Craters[index].AddCrater(turn);
-        }
+		}
+
+		private Vector3 Convert2Dto3D(float x, float y)
+		{
+			float q1, q2, q3 = (float)((rand.NextDouble() + rand.NextDouble()) * Math.PI);
+			float pr = Planet3DRadius;
+			double z = -Math.Sqrt(pr * pr - x * x - y * y);
+			q1 = (float)Math.Atan2(z, x);//x
+			q2 = (float)Math.Atan2(y, Math.Sqrt(x * x + z * z));//z
+			return new Vector3(q1 + ((float)Math.PI / 2), q2, q3);
+		}
 
         public void Render()
         {
@@ -112,22 +125,11 @@ namespace TheGameDrawing.MeshRendering.RenderingObjects
 
             ///важна последовательность отрисовки
             View.DrawMesh(Earth, true);
-
-            //включать-выключать прозрачность рекомендуется чем пореже
-            MeshRenderer.device.RenderState.AlphaBlendEnable = true;
-            MeshRenderer.device.RenderState.SourceBlend = Blend.SourceAlpha;
-            MeshRenderer.device.RenderState.DestinationBlend = Blend.InvSourceAlpha;
-
             foreach (CratersOnSurface c in Craters)
                 c.Render(Rotate);
             foreach (ExplosionOnSurface expl in Explosions)
                 expl.Render(Rotate);
             View.DrawMesh(Clouds, true);
-
-            MeshRenderer.device.RenderState.AlphaBlendEnable = false;
-
-            //временно, пока нет астероидов
-            //AddExplosion(10,20);
         }
     }
 }

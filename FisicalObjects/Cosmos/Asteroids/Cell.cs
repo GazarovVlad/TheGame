@@ -6,7 +6,7 @@ using FisicalObjects.Cosmos.Asteroids.Descendants;
 
 namespace FisicalObjects.Cosmos.Asteroids
 {
-    class Cell
+	class Cell
 	{
 		public const int Size = 150;						// Размер ячейки (длинна стороны)
 
