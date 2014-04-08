@@ -141,3 +141,16 @@ C:\Users\Jan\Desktop\TheGame\UserControl\bin\Debug\ProgramObjects.pdb
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\UserControl.dll
 C:\Users\Jan\Desktop\TheGame\UserControl\obj\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\UserControl.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGameAll\UserControl\obj\Debug\UserControl.dll
+C:\Users\Jan\Desktop\TheGameAll\UserControl\obj\Debug\UserControl.pdb

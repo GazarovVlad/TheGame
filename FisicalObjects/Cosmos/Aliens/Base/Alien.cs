@@ -39,6 +39,10 @@ namespace FisicalObjects.Cosmos.Aliens.Base
         public float MaxPower { get; protected set; }   //максимальная сила тяги двигателя
         public float Power { get; protected set; }      //текущая
         public Point Model { get; protected set; }		// ссылка на графику (x - индекс типа, y - индекс вида в типе)
+		public int Shield { get; protected set; }		// защита от массы (только для HP)
+
+		protected const int MaxShield = 75;
+		protected const int MinShield = 30;
 
 		protected static Random Rand = new Random();
 
@@ -63,29 +67,30 @@ namespace FisicalObjects.Cosmos.Aliens.Base
 			Explodes = true;
             MaxPower = maxPower;
             Power = power;
+			Shield = Rand.Next(MinShield, MaxShield);
 		}
 
-        //public virtual Point Hit(Point pos, int fmass, int demage, string hiteffect)
-        //{
-        //    HitPoints -= fmass / Shield;
-        //    HitPoints -= demage;
-        //    double a, r, vx, vy;
-        //    r = Math.Sqrt((pos.X - X) * (pos.X - X) + (pos.Y - Y) * (pos.Y - Y));
-        //    a = fmass / (Mass * 1.0);
-        //    vx = ((pos.X - X) / r) * a;
-        //    vy = ((pos.Y - Y) / r) * a;
-        //    VX -= (float)vx;
-        //    VY -= (float)vy;
-        //    double d, b, rad;
-        //    int x, y;
-        //    d = Math.Sqrt((X - pos.X) * (X - pos.X) + (Y - pos.Y) * (Y - pos.Y));
-        //    rad = d - Radius + Rand.Next(1, 4);
-        //    b = (rad * rad - Radius * Radius + d * d) / (2 * d);
-        //    x = (int)(X + (pos.X - X) / (d / (d - b)));
-        //    y = (int)(Y + (pos.Y - Y) / (d / (d - b)));
-        //    Explosions.Add(hiteffect, x, y);
-        //    return new Point(x, y);
-        //}
+		public virtual Point Hit(Point pos, int fmass, int demage, string hiteffect)
+		{
+			HitPoints -= fmass / Shield;
+			HitPoints -= demage;
+			double a, r, vx, vy;
+			r = Math.Sqrt((pos.X - X) * (pos.X - X) + (pos.Y - Y) * (pos.Y - Y));
+			a = fmass / (Mass * 1.0);
+			vx = ((pos.X - X) / r) * a;
+			vy = ((pos.Y - Y) / r) * a;
+			VX -= (float)vx;
+			VY -= (float)vy;
+			double d, b, rad;
+			int x, y;
+			d = Math.Sqrt((X - pos.X) * (X - pos.X) + (Y - pos.Y) * (Y - pos.Y));
+			rad = d - Radius + Rand.Next(1, 4);
+			b = (rad * rad - Radius * Radius + d * d) / (2 * d);
+			x = (int)(X + (pos.X - X) / (d / (d - b)));
+			y = (int)(Y + (pos.Y - Y) / (d / (d - b)));
+			Explosions.Add(hiteffect, x, y);
+			return new Point(x, y);
+		}
 
         //public virtual void ExplodeHit(Point pos, int demage, int mass)
         //{

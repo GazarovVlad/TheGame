@@ -15,6 +15,8 @@ namespace FisicalObjects.Cosmos.Aliens
 		public static Point Null = new Point(-1000, -1000);
         public static List<IAlien> Aliens;
 
+		private const double AttackCoef = 0.8;
+
         private const int MinAlienDensity = 5;
         private const int MaxAlienDensity = 23;
         private static int WorldSize;
@@ -36,6 +38,7 @@ namespace FisicalObjects.Cosmos.Aliens
 			WorldSize = worldsize;
             SimpleAlien.Inicialize(worldsize);
 			Cell.Inicialize(worldsize);
+			MaxRadius = AlienAvailible.GetMaxRadius();
             AlienAvailible.Inicialize(new Point(WorldSize / 2, WorldSize / 2));
 		}
 
@@ -100,7 +103,40 @@ namespace FisicalObjects.Cosmos.Aliens
 			//	движение
             for (int i = 0; i < Aliens.Count; i++)
                 Aliens[i].Move();
-		}	
+		}
+
+		public static Point Attack(Point pos, int rang, int demage, int fmass, string hiteffect)
+		{
+			List<Point> mean = new List<Point>();
+			Point pos2;
+			double r2, length, tlength;
+			int ind = -1;
+			length = -1;
+			mean = Cell.GetMeaningfulCells(pos, rang + MaxRadius);
+			for (int j = 0; j < mean.Count; j++)
+			{
+				for (int k = 0; k < Field[mean[j].X][mean[j].Y].AlienLinks.Count; k++)
+				{
+					pos2 = Aliens[Field[mean[j].X][mean[j].Y].AlienLinks[k]].GetCoords();
+					r2 = Aliens[Field[mean[j].X][mean[j].Y].AlienLinks[k]].GetRadius() * AttackCoef;
+					tlength = Math.Sqrt((pos.X - pos2.X) * (pos.X - pos2.X) + (pos.Y - pos2.Y) * (pos.Y - pos2.Y));
+					if (rang + r2 > (int)tlength)
+					{
+						if ((length == -1) || (tlength < length))
+						{
+							length = tlength;
+							ind = Field[mean[j].X][mean[j].Y].AlienLinks[k];
+						}
+					}
+				}
+			}
+			if (ind != -1)
+			{
+				return Aliens[ind].Hit(pos, fmass, demage, hiteffect);
+			}
+			return Null;
+		}
+
 
         public static void CreateWave(int count)
         {

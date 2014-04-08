@@ -97,3 +97,12 @@ C:\Users\Jan\Desktop\TheGame\ProgramObjects\bin\Debug\SupportedStructures.pdb
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\obj\Debug\ProgramObjects.dll
 C:\Users\Jan\Desktop\TheGame\ProgramObjects\obj\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\ProgramObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\obj\Debug\ProgramObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\ProgramObjects\obj\Debug\ProgramObjects.pdb

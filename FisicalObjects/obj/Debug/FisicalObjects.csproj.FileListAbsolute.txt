@@ -105,3 +105,12 @@ C:\Users\Jan\Desktop\TheGame\FisicalObjects\bin\Debug\SupportedStructures.pdb
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\FisicalObjects.exe
 C:\Users\Jan\Desktop\TheGame\FisicalObjects\obj\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\FisicalObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\obj\Debug\FisicalObjects.exe
+C:\Users\Jan\Desktop\TheGameAll\FisicalObjects\obj\Debug\FisicalObjects.pdb

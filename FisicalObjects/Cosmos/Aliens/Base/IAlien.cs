@@ -8,7 +8,7 @@ namespace FisicalObjects.Cosmos.Aliens.Base
 {
     interface IAlien
     {
-        //Point Hit(Point pos, int mass, int demage, string hiteffect);
+        Point Hit(Point pos, int mass, int demage, string hiteffect);
         //void ExplodeHit(Point pos, int demage, int mass);
         TransAlien GetTransister();
         void Move();

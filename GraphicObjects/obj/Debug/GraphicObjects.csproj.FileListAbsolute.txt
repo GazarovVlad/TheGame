@@ -74,3 +74,10 @@ C:\Users\Jan\Desktop\TheGame\GraphicObjects\bin\Debug\SupportedStructures.pdb
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\GraphicObjects.dll
 C:\Users\Jan\Desktop\TheGame\GraphicObjects\obj\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\bin\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\bin\Debug\GraphicObjects.pdb
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\obj\Debug\GraphicObjects.dll
+C:\Users\Jan\Desktop\TheGameAll\GraphicObjects\obj\Debug\GraphicObjects.pdb

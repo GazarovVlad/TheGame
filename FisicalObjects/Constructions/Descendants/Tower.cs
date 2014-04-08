@@ -5,6 +5,7 @@ using System.Text;
 using FisicalObjects.Transist;
 using FisicalObjects.Cosmos.Minerals;
 using FisicalObjects.Cosmos.Asteroids;
+using FisicalObjects.Cosmos.Aliens;
 
 namespace FisicalObjects.Constructions.Descendants
 {
@@ -174,9 +175,14 @@ namespace FisicalObjects.Constructions.Descendants
 
 		private bool Attack()
 		{
+			//приоритет астероидам
 			Target = AsterField.Attack(new Point(X, Y), FireRang, FireDemage, FireMass, HitEffect);
 			if (Target != AsterField.Null)
 				return true;
+
+			//Target = AliensField.Attack(new Point(X, Y), FireRang, FireDemage, FireMass, HitEffect);
+			//if (Target != AliensField.Null)
+			//	return true;
 			return false;
 		}
 

@@ -48,3 +48,8 @@ C:\Users\Jan\Desktop\TheGame\SupportedStructures\bin\Debug\SupportedStructures.p
 C:\Users\Jan\Desktop\TheGame\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jan\Desktop\TheGame\SupportedStructures\obj\Debug\SupportedStructures.dll
 C:\Users\Jan\Desktop\TheGame\SupportedStructures\obj\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\SupportedStructures\bin\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\SupportedStructures\bin\Debug\SupportedStructures.pdb
+C:\Users\Jan\Desktop\TheGameAll\SupportedStructures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\TheGameAll\SupportedStructures\obj\Debug\SupportedStructures.dll
+C:\Users\Jan\Desktop\TheGameAll\SupportedStructures\obj\Debug\SupportedStructures.pdb
