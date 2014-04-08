@@ -27,6 +27,7 @@ namespace FisicalObjects.Cosmos.Aliens.Descendants
         private const int RandEngStart = 150;
         private const int RandEngEnd = 500;
 
+		
         //выбранная траектория разворота 
         private static int ChangedTrajectTurn; //(-1 не выбрана, 1 - первая четверть и т.д. см. FindSpeed() )                                                                                   
 
@@ -53,6 +54,7 @@ namespace FisicalObjects.Cosmos.Aliens.Descendants
             Power = body.Power;
             ChangeCourse(RandPlanetPoint());
             CourseCorrFromCount = CourseCorrectionInterval;
+			Shield = body.Shield;
         }
 
         public override void Move()

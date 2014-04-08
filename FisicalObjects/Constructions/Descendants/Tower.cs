@@ -180,9 +180,9 @@ namespace FisicalObjects.Constructions.Descendants
 			if (Target != AsterField.Null)
 				return true;
 
-			//Target = AliensField.Attack(new Point(X, Y), FireRang, FireDemage, FireMass, HitEffect);
-			//if (Target != AliensField.Null)
-			//	return true;
+			Target = AliensField.Attack(new Point(X, Y), FireRang, FireDemage, FireMass, HitEffect);
+			if (Target != AliensField.Null)
+				return true;
 			return false;
 		}
 
