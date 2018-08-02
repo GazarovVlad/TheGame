@@ -1,0 +1,4 @@
+stages=9 6 6 25 12 10 12 10 8 1 9 1 1 12 24 10
+typeCounts=2 1 2 1 1 1 1 1 1 6 3 5 5 1 1 1
+typeNames=A Little LittleRock Small Small2 AsterClash1 AsterClash2 Aster24 Aster32 FireSmoll Allien20-30 FireLaserRed FireLaserRedEffect Little2 RocketLaunch TopolExpl
+textureSizes=30 13 13 60 45 8 16 24 32 4 30 5 6 24 18 40

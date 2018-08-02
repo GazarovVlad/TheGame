@@ -1,0 +1,9 @@
+minCount=60 400 1000
+maxCount=100 800 1800
+koefMin=700
+koefMax=1450
+size=12 7 4
+count=5 9 10
+outMapRad=220 120 20
+types=A B C
+typesCount=3

@@ -1,0 +1,41 @@
+MainPath	= Sprites\Constructions\
+IconPath	= Sprites\Constructions\Icons\
+
+ConstructionBuildings:
+Count	= 2
+FName	= ConnectionPoint.png
+FName	= Generator.png
+
+
+ConstructionTowerBase:
+Count	= 2
+FName	= TowerBase1.png
+FName	= TowerBase2.png
+
+
+ConstructionTowerTurrets:
+Count	= 4
+FName	= TowerTurret1.png
+FName	= TowerTurret2.png
+FName	= TowerTurret3.png
+FName	= TowerTurret4.png
+
+
+ConstructionIcons:
+Count	= 6
+FName	= ConstructionBuilding1.png
+FName	= ConstructionBuilding2.png
+FName	= ConstructionBuilding3.png
+FName	= ConstructionBuilding4.png
+FName	= ConstructionBuilding5.png
+FName	= ConstructionBuilding6.png
+
+
+ConstructionIconsShine:
+Count	= 6
+FName	= ConstructionBuildingShine1.png
+FName	= ConstructionBuildingShine2.png
+FName	= ConstructionBuildingShine3.png
+FName	= ConstructionBuildingShine4.png
+FName	= ConstructionBuildingShine5.png
+FName	= ConstructionBuildingShine6.png
